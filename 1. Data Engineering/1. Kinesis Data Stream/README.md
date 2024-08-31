@@ -4,6 +4,10 @@
 
 This project is part of the `1. Data Engineering` directory under the `AWS-Certified-Machine-Learning-Specialty` repository. It demonstrates the integration of a machine learning model training pipeline with AWS Kinesis Data Streams for logging training progress in real-time.
 
+## Video Tutorial
+
+[Watch the video](../../videos/Data%20Engineering/1.%20Kinesis%20Data%20Stream.mp4)
+
 ### Key Features
 
 1. **Data Loading and Preprocessing**:
