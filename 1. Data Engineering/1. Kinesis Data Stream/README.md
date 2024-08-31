@@ -6,7 +6,7 @@ This project is part of the `1. Data Engineering` directory under the `AWS-Certi
 
 ## Video Tutorial
 
-[Watch the video](../../videos/Data%20Engineering/1.%20Kinesis%20Data%20Stream.mp4)
+<https://github.com/user-attachments/assets/daf61134-1c1f-45c3-a81b-732f1780b6b2>
 
 ### Key Features
 
