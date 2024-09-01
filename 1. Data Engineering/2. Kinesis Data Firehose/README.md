@@ -1,4 +1,8 @@
-# 1. Kinesis Data Stream
+# 2. Kinesis Data Firehose
+
+This code is from the previous tutorial. It is essential for creating Kinesis Data Firehose. In this case, the data is uploaded in a stream to AWS Kinesis Data Stream → AWS Kinesis Data Firehose → S3.
+
+You can see the creation of Kinesis Data Firehose from the video tutorial.
 
 ## Overview
 
@@ -6,7 +10,8 @@ This project is part of the `1. Data Engineering` directory under the `AWS-Certi
 
 ## Video Tutorial
 
-<https://github.com/user-attachments/assets/daf61134-1c1f-45c3-a81b-732f1780b6b2>
+<https://github.com/user-attachments/assets/1462bb57-2305-4b85-b4e7-a71dd08ec2de>
+
 
 ### Key Features
 
